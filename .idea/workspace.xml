@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6ee42f9-b727-4469-b81c-58c6d56afa6e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,11 +22,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="57">
-                <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-                <folding>
-                  <element signature="e#122#127#0" />
-                </folding>
+              <first_editor relative-caret-position="-627">
+                <caret line="33" column="14" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
               </first_editor>
               <second_editor />
             </state>
@@ -427,12 +425,12 @@
       <workItem from="1569206348552" duration="5603000" />
       <workItem from="1569297033549" duration="7123000" />
       <workItem from="1569499351254" duration="7365000" />
-      <workItem from="1570157448371" duration="58912000" />
+      <workItem from="1570157448371" duration="59164000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133980000" />
+    <option name="totallyTimeSpent" value="134232000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -451,7 +449,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.502021" side_tool="true" weight="0.31914893" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.5204263" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.1722913" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1034,11 +1032,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="57">
-            <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-            <folding>
-              <element signature="e#122#127#0" />
-            </folding>
+          <first_editor relative-caret-position="-627">
+            <caret line="33" column="14" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
           </first_editor>
           <second_editor />
         </state>
