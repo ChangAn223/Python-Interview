@@ -31,13 +31,12 @@
     - [Docker](#Docker)
 - [资源](#资源)
     - [书单](#书单)
+    - [视频](#视频)
     - [Github榜单](#Github榜单)
-- [待办](#待办)
-- [说明](#说明)
+
 
 ## Python
 
-* [热门Python开源项目排行榜(月榜)](https://github.com/trending/python?since=monthly)
 
 ### 基础
 
@@ -167,3 +166,17 @@
 
 * [Docker 入门](docs/tools/Docker.md)
 * [一文搞懂 Docker 镜像的常用操作！](docs/tools/Docker-Image.md)
+
+
+## 资源
+
+### 书单
+
+
+### 视频
+
+
+
+### Github榜单
+
+* [热门Python开源项目排行榜(月榜)](https://github.com/trending/python?since=monthly)

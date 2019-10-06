@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6ee42f9-b727-4469-b81c-58c6d56afa6e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/HomePage.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Python/Python面试知识复习.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Python/Python面试知识复习.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_coverpage.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/公众号历史文章汇总.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/原项目维护者的微信公众号历史文章汇总.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/操作系统/操作系统.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/操作系统/操作系统知识复习.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/数据结构与算法/LeetCode开了个会员，截了一些高频率题目分享给大家.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/数据结构与算法/LeetCode高频率题目.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/数据结构与算法/剑指offer部分编程题.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/数据结构与算法/数据结构.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/数据结构与算法/数据结构.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/系统设计/framework/ZooKeeper.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/系统设计/ZooKeeper/ZooKeeper.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/系统设计/framework/ZooKeeper数据模型和常见命令.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/系统设计/ZooKeeper/ZooKeeper数据模型和常见命令.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/系统设计/framework/spring/Spring-Design-Patterns.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/系统设计/framework/spring/Spring.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/系统设计/framework/spring/SpringBean.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/系统设计/framework/spring/SpringInterviewQuestions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/系统设计/framework/spring/SpringMVC-Principle.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/系统设计/framework/spring/springboot-questions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/计算机网络/计算机网络-乔格里.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/计算机网络/计算机网络知识点.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,81 +17,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="95">
-                <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+              <first_editor relative-caret-position="57">
+                <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
                 <folding>
                   <element signature="e#122#127#0" />
                 </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/原项目维护者的微信公众号历史文章汇总.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/github-trending/2019-1.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="213">
-                <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/github-trending/2019-2.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-604" />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/github-trending/2018-12.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-1041">
-                <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/github-trending/2019-6.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-205" />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/docs/github-trending/2019-5.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="46" selection-start-column="46" selection-end-column="84" />
               </first_editor>
               <second_editor />
             </state>
@@ -212,18 +127,6 @@
               <item name="Python-Interview" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python后台" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-Interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python后台" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="github-trending" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-Interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python后台" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -524,18 +427,17 @@
       <workItem from="1569206348552" duration="5603000" />
       <workItem from="1569297033549" duration="7123000" />
       <workItem from="1569499351254" duration="7365000" />
-      <workItem from="1570157448371" duration="58600000" />
+      <workItem from="1570157448371" duration="58912000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133668000" />
+    <option name="totallyTimeSpent" value="133980000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4921875" visible="true" weight="0.22392885" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4921875" visible="true" weight="0.22392885" />
       <window_info id="Structure" order="1" sideWeight="0.5078125" side_tool="true" weight="0.22392885" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -549,7 +451,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.502021" side_tool="true" weight="0.31914893" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.5204263" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.5204263" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1073,27 +975,6 @@
     <entry file="file://$PROJECT_DIR$/docs/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="95">
-            <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
-            <folding>
-              <element signature="e#122#127#0" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/原项目维护者的微信公众号历史文章汇总.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/github-trending/2019-1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1135,6 +1016,29 @@
         <state split_layout="SPLIT">
           <first_editor>
             <caret column="46" selection-start-column="46" selection-end-column="84" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/原项目维护者的微信公众号历史文章汇总.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="190">
+            <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="57">
+            <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            <folding>
+              <element signature="e#122#127#0" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
