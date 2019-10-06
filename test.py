@@ -271,7 +271,7 @@ print(heap.q[0] if heap.t >= heap.n else heap.q[-1])
 
 arr = [6, -1, 8, -4, -6, 3, 2, -2, 5]
 
-def rec_opt(arr):
+def dp_opt(arr):
     res = [0 for i in range(len(arr))]
     # 初始化
     res[0] = arr[0]
@@ -284,4 +284,4 @@ def rec_opt(arr):
         max_sum = max_sum if max_sum >res[i] else res[i]
     return max_sum
 
-print(rec_opt(arr))
+print(dp_opt(arr))
