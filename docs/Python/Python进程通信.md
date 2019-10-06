@@ -1,9 +1,9 @@
-"""
+## Python进程通信
 
 https://blog.csdn.net/weixin_43790276/article/details/90906683
 https://www.cnblogs.com/guguobao/p/9398653.html
 
-第一种：Queue
+### 1. 第一种：Queue
 ```
 from multiprocessing import Queue
 
@@ -78,7 +78,7 @@ if __name__ == "__main__":
 
 如果要使用Pool创建进程，需要使用multiprocessing.Manager()中的Queue()来传递消息。
 
-第二种：Pipe
+### 2. 第二种：Pipe
 
 ```
 from multiprocessing import Pipe
@@ -123,10 +123,10 @@ if __name__ == '__main__':
     p2.terminate()
 ```
 
-第三种：socket
+### 3. 第三种：socket
 
 见网络编程篇
 
-"""
+
 
 

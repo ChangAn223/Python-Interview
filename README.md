@@ -1,38 +1,12 @@
-点击关注[公众号](#公众号)及时获取笔主最新更新文章，并可免费领取本文档配套的《Java面试突击》以及Java工程师必备学习资源。
 
-作者的其他开源项目推荐：
+## 说明
 
-1. [springboot-guide](https://github.com/Snailclimb/springboot-guide) : 适合新手入门以及有经验的开发人员查阅的 Spring Boot 教程（业余时间维护中，欢迎一起维护）。
-2. [programmer-advancement](https://github.com/Snailclimb/programmer-advancement) : 我觉得技术人员应该有的一些好习惯！
-3. [spring-security-jwt-guide](https://github.com/Snailclimb/spring-security-jwt-guide) :从零入门 ！Spring Security With JWT（含权限验证）后端部分代码。
+这个项目是从github项目[JavaGuide](https://github.com/Snailclimb/JavaGuide)复制过来的，有心做一个与Python相关的项目，主要是为了面试复习所用。正在更改与完善中。
 
-<p align="center">
-<a href="https://github.com/Snailclimb/JavaGuide" target="_blank">
-	<img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-3/logo - 副本.png" width=""/>
-</a>
-</p>
-
-<p align="center">
-  <a href="https://snailclimb.gitee.io/javaguide"><img src="https://img.shields.io/badge/阅读-read-brightgreen.svg" alt="阅读"></a>
-  <a href="#联系我"><img src="https://img.shields.io/badge/chat-微信群-blue.svg" alt="微信群"></a>
-  <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-JavaGuide-lightgrey.svg" alt="公众号"></a>
-  <a href="#公众号"><img src="https://img.shields.io/badge/PDF-Java面试突击-important.svg" alt="公众号"></a>
-  <a href="#投稿"><img src="https://img.shields.io/badge/support-投稿-critical.svg" alt="投稿"></a>
-  <a href="https://xiaozhuanlan.com/javainterview?rel=javaguide"><img src="https://img.shields.io/badge/Java-面试指南-important" alt="投稿"></a>
-</p>
-
-推荐使用 https://snailclimb.top/JavaGuide/ 在线阅读(访问速度慢的话，请使用 https://snailclimb.gitee.io/javaguide )，在线阅读内容本仓库同步一致。这种方式阅读的优势在于：有侧边栏阅读体验更好，Gitee pages 的访问速度相对来说也比较快。
 
 ## 目录
 
-- [Java](#java)
-    - [基础](#基础)
-    - [容器](#容器)
-    - [并发](#并发)
-    - [JVM](#jvm)
-    - [I/O](#io)
-    - [Java 8](#java-8)
-    - [编程规范](#编程规范)
+- [Python](#Python)
 - [网络](#网络)
 - [操作系统](#操作系统)
     - [Linux相关](#linux相关)
@@ -61,54 +35,11 @@
 - [待办](#待办)
 - [说明](#说明)
 
-## Java
+## Python
 
 ### 基础
 
-* **[Java 基础知识回顾](docs/java/Java基础知识.md)**
-* **[Java 基础知识疑难点/易错点](docs/java/Java疑难点.md)**
-* **[一些重要的Java程序设计题](docs/java/Java程序设计题.md)**
-* [J2EE 基础知识回顾](docs/java/J2EE基础知识.md)
-
-### 容器
-
-* **[Java容器常见面试题/知识点总结](docs/java/collection/Java集合框架常见面试题.md)**
-* [ArrayList 源码学习](docs/java/collection/ArrayList.md)  
-* [LinkedList 源码学习](docs/java/collection/LinkedList.md)   
-* [HashMap(JDK1.8)源码学习](docs/java/collection/HashMap.md)  
-
-### 并发
-
-* **[Java 并发基础常见面试题总结](docs/java/Multithread/JavaConcurrencyBasicsCommonInterviewQuestionsSummary.md)**
-* **[Java 并发进阶常见面试题总结](docs/java/Multithread/JavaConcurrencyAdvancedCommonInterviewQuestions.md)**
-* [并发容器总结](docs/java/Multithread/并发容器总结.md)
-* [乐观锁与悲观锁](docs/简历与面经/面试必备之乐观锁与悲观锁.md)
-* [JUC 中的 Atomic 原子类总结](docs/java/Multithread/Atomic.md)
-* [AQS 原理以及 AQS 同步组件总结](docs/java/Multithread/AQS.md)
-
-### JVM
-
-* **[一 Java内存区域](docs/java/jvm/Java内存区域.md)**
-* **[二 JVM垃圾回收](docs/java/jvm/JVM垃圾回收.md)**
-* [三 JDK 监控和故障处理工具](docs/java/jvm/JDK监控和故障处理工具总结.md)
-* [四 类文件结构](docs/java/jvm/类文件结构.md)
-* **[五 类加载过程](docs/java/jvm/类加载过程.md)**
-* [六 类加载器](docs/java/jvm/类加载器.md)
-
-### I/O
-
-* [BIO,NIO,AIO 总结 ](docs/java/BIO-NIO-AIO.md)
-* [Java IO 与 NIO系列文章](docs/java/Java%20IO与NIO.md)
-
-### Java 8 
-
-* [Java 8 新特性总结](docs/java/What's%20New%20in%20JDK8/Java8Tutorial.md)
-* [Java 8 学习资源推荐](docs/java/What's%20New%20in%20JDK8/Java8教程推荐.md)
-* [Java8 forEach 指南](docs/java/What's%20New%20in%20JDK8/Java8foreach指南.md)
-
-### 编程规范
-
-- [Java 编程规范](docs/java/Java编程规范.md)
+* **[Python 基础知识回顾](docs/Python)**
 
 ## 网络
 
@@ -231,122 +162,3 @@
 
 * [Docker 入门](docs/tools/Docker.md)
 * [一文搞懂 Docker 镜像的常用操作！](docs/tools/Docker-Image.md)
-
-## 资源
-
-### 书单
-
-- [Java程序员必备书单](docs/书籍推荐/java-recommended-books.md)
-
-### 实战项目推荐
-
-- [onemall](https://github.com/YunaiV/onemall) : mall 商城，基于微服务的思想，构建在 B2C 电商场景下的项目实战。核心技术栈，是 Spring Boot + Dubbo 。未来，会重构成 Spring Cloud Alibaba 。
-- 
-
-### Github 历史榜单
-
-- [Java 项目月榜单](docs/github-trending/JavaGithubTrending.md)
-
-***
-
-## 待办
-
-- [ ] Java 多线程类别知识重构(---正在进行中---)
-- [ ] Netty 总结(---正在进行中---)
-- [ ] 数据结构总结重构(---正在进行中---)
-
-## 说明
-
-### 介绍
-
-*  **对于 Java 初学者来说：** 本文档倾向于给你提供一个比较详细的学习路径，让你对于Java整体的知识体系有一个初步认识。另外，本文的一些文章
-也是你学习和复习 Java 知识不错的实践；
-*  **对于非 Java 初学者来说：** 本文档更适合回顾知识，准备面试，搞清面试应该把重心放在那些问题上。要搞清楚这个道理：提前知道那些面试常见，不是为了背下来应付面试，而是为了让你可以更有针对的学习重点。
-
-Markdown 格式参考：[Github Markdown格式](https://guides.github.com/features/mastering-markdown/)，表情素材来自：[EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/)。
-
-利用 docsify 生成文档部署在 Github pages: [docsify 官网介绍](https://docsify.js.org/#/)
-
-### 关于转载
-
-如果你需要转载本仓库的一些文章到自己的博客的话，记得注明原文地址就可以了。
-
-### 如何对该开源文档进行贡献
-
-1. 笔记内容大多是手敲，所以难免会有笔误，你可以帮我找错别字。
-2. 很多知识点我可能没有涉及到，所以你可以对其他知识点进行补充。
-3. 现有的知识点难免存在不完善或者错误，所以你可以对已有知识点的修改/补充。
-
-### 为什么要做这个开源文档？
-
-初始想法源于自己的个人那一段比较迷茫的学习经历。主要目的是为了通过这个开源平台来帮助一些在学习 Java 或者面试过程中遇到问题的小伙伴。
-
-### 投稿
-
-由于我个人能力有限，很多知识点我可能没有涉及到，所以你可以对其他知识点进行补充。大家也可以对自己的文章进行自荐，对于不错的文章不仅可以成功在本仓库展示出来更可以获得作者送出的 50 元左右的任意书籍进行奖励(当然你也可以直接折现50元)。
-
-### 联系我
-
-添加我的微信备注“Github”,回复关键字 **“加群”** 即可入群。
-
-![个人微信](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-7/wechat3.jpeg)
-
-### Contributor
-
-下面是笔主收集的一些对本仓库提过有价值的pr或者issue的朋友，人数较多，如果你也对本仓库提过不错的pr或者issue的话，你可以加我的微信与我联系。下面的排名不分先后！
-
-<a href="https://github.com/fanofxiaofeng">
-    <img src="https://avatars0.githubusercontent.com/u/3983683?s=460&v=4" width="45px"></a>
-<a href="https://github.com/fanchenggang">  
-    <img src="https://avatars2.githubusercontent.com/u/8225921?s=460&v=4" width="45px">
-</a>
-<a href="https://github.com/ipofss">
-    <img src="https://avatars1.githubusercontent.com/u/5917359?s=460&v=4" width="45px"></a>
-<a href="https://github.com/Gene1994">
-    <img src="https://avatars3.githubusercontent.com/u/24930369?s=460&v=4" width="45px">
-</a>
-<a href="https://github.com/spikesp">
-    <img src="https://avatars0.githubusercontent.com/u/12581996?s=460&v=4" width="45px"></a>
-<a href="https://github.com/illusorycloud">
-    <img src="https://avatars3.githubusercontent.com/u/31980412?s=460&v=4" width="45px">
-</a>
-<a href="https://github.com/LiWenGu">
-    <img src="https://avatars0.githubusercontent.com/u/15909210?s=460&v=4" width="45px">
-</a>
-<a href="https://github.com/kinglaw1204">
-    <img src="https://avatars1.githubusercontent.com/u/20039931?s=460&v=4" width="45px">
-</a>
-<a href="https://github.com/jun1st">
-    <img src="https://avatars2.githubusercontent.com/u/14312378?s=460&v=4" width="45px">
-</a>"
-<a href="https://github.com/fantasygg">  
-    <img src="https://avatars3.githubusercontent.com/u/13445354?s=460&v=4" width="45px">
-</a>
-<a href="https://github.com/debugjoker">  
-    <img src="https://avatars3.githubusercontent.com/u/26218005?s=460&v=4" width="45px">
-</a>
-<a href="https://github.com/zhyank">  
-    <img src="https://avatars0.githubusercontent.com/u/17696240?s=460&v=4" width="45px">
-</a>
-<a href="https://github.com/Goose9527">  
-    <img src="https://avatars2.githubusercontent.com/u/43314997?s=460&v=4" width="45px">
-</a>
-<a href="https://github.com/yuechuanx">  
-    <img src="https://avatars3.githubusercontent.com/u/19339293?s=460&v=4" width="45px">
-</a>
-<a href="https://github.com/cnLGMing">  
-    <img src="https://avatars2.githubusercontent.com/u/15910705?s=460&v=4" width="45px">
-</a>
-<a href="https://github.com/fanchenggang">  
-    <img src="https://avatars0.githubusercontent.com/u/20358122?s=460&v=4" width="45px">
-</a>
-
-### 公众号
-
-如果大家想要实时关注我更新的文章以及分享的干货的话，可以关注我的公众号。
-
-**《Java面试突击》:** 由本文档衍生的专为面试而生的《Java面试突击》V2.0 PDF 版本[公众号](#公众号)后台回复 **"Java面试突击"** 即可免费领取！
-
-**Java工程师必备学习资源:** 一些Java工程师常用学习资源公众号后台回复关键字 **“1”** 即可免费无套路获取。 
-
-![我的公众号](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/167598cd2e17b8ec.png)
