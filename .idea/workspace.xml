@@ -2,22 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6ee42f9-b727-4469-b81c-58c6d56afa6e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/Python/Python面试知识复习.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Python/00.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Python/01.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Python/02.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Python/03.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Python/04.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Python/05.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Python/06.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Python/07.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Python/08.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Python/09.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Python/10.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Python/11.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Python/排序算法.py" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Python/Python实现常见排序算法.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Python/进程通信.py" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Python/Python进程通信.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/HomePage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Python/Python面试知识复习.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Python/Python面试知识复习.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_coverpage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/公众号历史文章汇总.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/原项目维护者的微信公众号历史文章汇总.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/操作系统/操作系统.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/操作系统/操作系统知识复习.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/数据结构与算法/LeetCode开了个会员，截了一些高频率题目分享给大家.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/数据结构与算法/LeetCode高频率题目.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/数据结构与算法/剑指offer部分编程题.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/数据结构与算法/数据结构.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/数据结构与算法/数据结构.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/系统设计/framework/ZooKeeper.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/系统设计/ZooKeeper/ZooKeeper.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/系统设计/framework/ZooKeeper数据模型和常见命令.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/系统设计/ZooKeeper/ZooKeeper数据模型和常见命令.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/系统设计/framework/spring/Spring-Design-Patterns.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/系统设计/framework/spring/Spring.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/系统设计/framework/spring/SpringBean.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/系统设计/framework/spring/SpringInterviewQuestions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/系统设计/framework/spring/SpringMVC-Principle.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/系统设计/framework/spring/springboot-questions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/计算机网络/计算机网络-乔格里.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/计算机网络/计算机网络知识点.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,10 +32,92 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Python$test.coverage" NAME="test Coverage Results" MODIFIED="1570188656052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$.coverage" NAME="排序算法 Coverage Results" MODIFIED="1568874752383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1570342394447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/docs/Python" />
+    <SUITE FILE_PATH="coverage/Python$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1570352009346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/docs/Python" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="95">
+                <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+                <folding>
+                  <element signature="e#122#127#0" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/原项目维护者的微信公众号历史文章汇总.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/github-trending/2019-1.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="213">
+                <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/github-trending/2019-2.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-604" />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/github-trending/2018-12.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-1041">
+                <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/github-trending/2019-6.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-205" />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/github-trending/2019-5.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="46" selection-start-column="46" selection-end-column="84" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -78,12 +164,10 @@
         <option value="$PROJECT_DIR$/docs/计算机网络/计算机网络-乔格里.md" />
         <option value="$PROJECT_DIR$/docs/数据结构与算法/LeetCode开了个会员，截了一些高频率题目分享给大家.md" />
         <option value="$PROJECT_DIR$/docs/Python/test.py" />
-        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/docs/数据结构与算法/动态规划.md" />
         <option value="$PROJECT_DIR$/docs/Python/09.md" />
         <option value="$PROJECT_DIR$/docs/数据库/MySQL.md" />
         <option value="$PROJECT_DIR$/docs/数据库/MySQL索引.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/docs/Python/01.md" />
         <option value="$PROJECT_DIR$/docs/Python/02.md" />
         <option value="$PROJECT_DIR$/docs/Python/03.md" />
@@ -97,6 +181,10 @@
         <option value="$PROJECT_DIR$/docs/Python/00.md" />
         <option value="$PROJECT_DIR$/docs/Python/进程通信.md" />
         <option value="$PROJECT_DIR$/docs/Python/简历面试/0.md" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/docs/Python/Python面试知识复习.md" />
+        <option value="$PROJECT_DIR$/docs/数据结构与算法/数据结构.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -124,6 +212,12 @@
               <item name="Python-Interview" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python后台" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-Interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python后台" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="github-trending" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python-Interview" type="b2602c69:ProjectViewProjectNode" />
@@ -430,22 +524,23 @@
       <workItem from="1569206348552" duration="5603000" />
       <workItem from="1569297033549" duration="7123000" />
       <workItem from="1569499351254" duration="7365000" />
-      <workItem from="1570157448371" duration="56197000" />
+      <workItem from="1570157448371" duration="58600000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131265000" />
+    <option name="totallyTimeSpent" value="133668000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4921875" visible="true" weight="0.22392885" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4921875" visible="true" weight="0.22392885" />
       <window_info id="Structure" order="1" sideWeight="0.5078125" side_tool="true" weight="0.22392885" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.497979" weight="0.31914893" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.497979" weight="0.3179396" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4995958" weight="0.39893618" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -454,7 +549,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.502021" side_tool="true" weight="0.31914893" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.5204263" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.5204263" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -493,104 +588,6 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JavaGuide-master/docs/简历与面经/MostCommonJavaInterviewQuestions/第一周（2018-8-7）.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-3477" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaGuide-master/docs/github-trending/2019-2.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-831" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaGuide-master/docs/github-trending/2019-4.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-836">
-            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaGuide-master/docs/github-trending/2019-1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-57" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaGuide-master/docs/github-trending/JavaGithubTrending.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaGuide-master/docs/tools/Docker.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-399" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaGuide-master/docs/tools/Docker-Image.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/_coverpage.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="171">
-            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/Python/25操作系统.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="282" selection-end-column="49" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/HomePage.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-2793">
-            <caret line="51" column="33" lean-forward="true" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/计算机网络/干货：计算机网络知识总结.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-152">
-            <caret line="157" column="24" selection-start-line="157" selection-start-column="24" selection-end-line="157" selection-end-column="24" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/计算机网络/HTTPS中的TLS.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -631,29 +628,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/操作系统/操作系统.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="227">
-            <caret line="171" selection-start-line="171" selection-end-line="171" />
-            <folding>
-              <element signature="e#1#32#0" />
-              <element signature="e#285#293#0" />
-              <element signature="e#788#806#0" />
-              <element signature="e#2289#2303#0" />
-              <element signature="e#2892#2909#0" />
-              <element signature="e#3393#3409#0" />
-              <element signature="e#3867#3883#0" />
-              <element signature="e#4522#4540#0" />
-              <element signature="e#4593#4610#0" />
-              <element signature="e#4567#4583#0" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/计算机网络/计算机网络-乔格里.md">
+    <entry file="file://$PROJECT_DIR$/docs/计算机网络/计算机网络知识点.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="1867">
@@ -681,28 +656,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/数据结构与算法/LeetCode开了个会员，截了一些高频率题目分享给大家.md">
+    <entry file="file://$PROJECT_DIR$/docs/数据结构与算法/LeetCode高频率题目.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="456">
             <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="271" column="37" selection-start-line="271" selection-start-column="37" selection-end-line="271" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/数据结构与算法/动态规划.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="1696">
-            <caret line="171" column="16" lean-forward="true" selection-start-line="171" selection-start-column="16" selection-end-line="171" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
@@ -782,28 +740,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/github-trending/2019-1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="38">
-            <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/数据库/MySQL高性能优化规范建议.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="-1995" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/公众号历史文章汇总.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1482" />
           <second_editor />
         </state>
       </provider>
@@ -859,16 +799,6 @@
               <element signature="e#1953#1965#0" />
               <element signature="e#2166#2188#0" />
             </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="95">
-            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
           </first_editor>
           <second_editor />
         </state>
@@ -984,11 +914,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/Python/Python实现常见排序算法.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-600" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/Python/Python进程通信.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -1002,14 +927,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/Python/Flask请求流程.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/Python/简历面试/0.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1018,11 +935,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/docs/Python/Flask请求流程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/Python/Python实现常见排序算法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/操作系统/操作系统知识复习.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="170">
+            <caret line="135" lean-forward="true" selection-start-line="135" selection-end-line="135" />
+            <folding>
+              <element signature="e#1#32#0" />
+              <element signature="e#285#293#0" />
+              <element signature="e#788#806#0" />
+              <element signature="e#2289#2303#0" />
+              <element signature="e#2892#2909#0" />
+              <element signature="e#3393#3409#0" />
+              <element signature="e#4593#4610#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/数据结构与算法/动态规划.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1638">
+            <caret line="171" column="16" lean-forward="true" selection-start-line="171" selection-start-column="16" selection-end-line="171" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="285" lean-forward="true" selection-start-line="285" selection-end-line="285" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/docs/Python/Python面试知识复习.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="152">
-            <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+          <first_editor relative-caret-position="289">
+            <caret line="558" lean-forward="true" selection-start-line="558" selection-end-line="558" />
             <folding>
               <element signature="e#0#9#0" />
               <element signature="e#89#102#0" />
@@ -1037,17 +1005,136 @@
               <element signature="e#5400#5415#0" />
               <element signature="e#7760#7773#0" />
               <element signature="e#8567#8583#0" />
-              <element signature="e#8597#8617#0" />
-              <element signature="e#9143#9166#0" />
-              <element signature="e#9288#9307#0" />
-              <element signature="e#4721#4775#0" />
-              <element signature="e#5351#5365#0" />
-              <element signature="e#5491#5511#0" />
-              <element signature="e#6420#6444#0" />
-              <element signature="e#7329#7344#0" />
-              <element signature="e#7399#7434#0" />
-              <element signature="e#12162#12178#0" />
             </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/数据结构与算法/数据结构.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="38">
+            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <folding>
+              <element signature="e#2633#2637#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/数据结构与算法/Backtracking-NQueens.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-817">
+            <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/数据结构与算法/公司真题.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1596" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/数据结构与算法/算法学习资源推荐.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/HomePage.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-608">
+            <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_coverpage.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="171">
+            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="95">
+            <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+            <folding>
+              <element signature="e#122#127#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/原项目维护者的微信公众号历史文章汇总.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/github-trending/2019-1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="213">
+            <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/github-trending/2019-2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-604" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/github-trending/2018-12.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1041">
+            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/github-trending/2019-6.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-205" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/github-trending/2019-5.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="46" selection-start-column="46" selection-end-column="84" />
           </first_editor>
           <second_editor />
         </state>

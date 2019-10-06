@@ -425,42 +425,7 @@ class TransitionError(Error):
 socket编程
 
 
-
-## 11、Python内数据结构与算法
-
-### 1.Python数据结构
-
-|数据结构|内置结构|内置模块|
-|----------------|--------------|----------------------------------|
-|线性结构|list,tuple|array/collections.namedtuple|
-|链式结构|.|collections.deque(双端队列)|
-|字典结构|dict|collections.Counter(计数器)/OrderedDict(有序字典)|
-|集合结构|set,frozenset(有序集合)|.|
-
-dict底层使用哈希表，Cpython解释器使用二次探查法解决哈希冲突
-set底层也使用了哈希表
-list底层使用顺序表
-
-**如何解决哈希冲突？哈希如何扩容？**
-冲突：二次探查法，再哈希法，
-扩容：重哈希（哈希表重新开辟空间并拷贝原有元素）
-
-**collections模块**
-
-
-### 2.Python常见算法
-
-排序：sorted()函数，list.sort()区别
-
-二分：bisect模块
-
-堆：heapq模块
-
-缓存算法：functolls.lru_cache(Python3中存在)
-
-
-
-## 12、Python内存管理与垃圾回收机制
+## 11、Python内存管理与垃圾回收机制
 
 https://www.cnblogs.com/ChangAn223/p/10943963.html
 
@@ -468,7 +433,7 @@ https://blog.csdn.net/xiongchengluo1129/article/details/80462651
 
 
 
-## 13、Python性能分析及优化
+## 12、Python性能分析及优化
 
 ### 1.GIL — Global Interpreter LOck(全局解释器锁，Cpython解释器)
 
@@ -594,7 +559,7 @@ if __name__=="__main__":
 
 
 
-## 14、Python单元测试
+## 13、Python单元测试
 
 自底向上进行测试
 保证代码逻辑的正确性

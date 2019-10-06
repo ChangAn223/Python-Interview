@@ -45,9 +45,12 @@
 
 * [计算机网络常见面试题](docs/计算机网络/计算机网络.md)
 * [计算机网络基础知识总结](docs/计算机网络/干货：计算机网络知识总结.md)
+* [计算机网络知识点](docs/计算机网络/计算机网络知识点.md)
 * [HTTPS中的TLS](docs/计算机网络/HTTPS中的TLS.md)
 
 ## 操作系统
+
+* [操作系统知识复习](docs/操作系统/操作系统知识复习.md)
 
 ### Linux相关
 
@@ -59,15 +62,20 @@
 ### 数据结构
 
 - [数据结构知识学习与面试](docs/数据结构与算法/数据结构.md)
+- [面试官问你什么B树和B+树，把这篇文章丢给他](docs/数据结构与算法/面试官问你什么B树和B+树，把这篇文章丢给他.md)
 
 ### 算法
 
+- [动态规划](docs/数据结构与算法/动态规划.md)
 - [算法学习资源推荐](docs/数据结构与算法/算法学习资源推荐.md)  
 - [几道常见的字符串算法题总结 ](docs/数据结构与算法/几道常见的子符串算法题.md)
 - [几道常见的链表算法题总结 ](docs/数据结构与算法/几道常见的链表算法题.md)   
-- [剑指offer部分编程题](docs/数据结构与算法/剑指offer部分编程题.md)
+- [《剑指Offer》面试题Python实现](https://github.com/ChangAn223/Python-Offer)
 - [公司真题](docs/数据结构与算法/公司真题.md)
-- [回溯算法经典案例之N皇后问题](docs/数据结构与算法/Backtracking-NQueens.md)
+- [请设计一个函数，用来判断在一个矩阵中是否存在一条包含某字符串所有字符的路径](https://www.cnblogs.com/ChangAn223/p/10828238.html)
+- [回溯算法经典案例之N皇后问题](https://www.cnblogs.com/ChangAn223/p/10940455.html)
+- [详解N皇后问题：用java](docs/数据结构与算法/Backtracking-NQueens.md)
+
 
 ## 数据库
 
@@ -90,19 +98,19 @@
 
 ### 常用框架
 
-#### Spring/SpringBoot
+#### Flask
 
-- [Spring 学习与面试](docs/系统设计/framework/spring/Spring.md)
-- **[Spring 常见问题总结](docs/系统设计/framework/spring/SpringInterviewQuestions.md)**
-- **[SpringBoot 指南/常见面试题总结](https://github.com/Snailclimb/springboot-guide)**
-- [Spring中bean的作用域与生命周期](docs/系统设计/framework/spring/SpringBean.md)
-- [SpringMVC 工作原理详解](docs/系统设计/framework/spring/SpringMVC-Principle.md)
-- [Spring中都用到了那些设计模式?](docs/系统设计/framework/spring/Spring-Design-Patterns.md)
+- [Flask请求流程](docs/Python/Flask请求流程.md)
+
+#### Django
+
+- 暂无
+
 
 #### ZooKeeper
 
-- [ZooKeeper 相关概念总结](docs/系统设计/framework/ZooKeeper.md)
-- [ZooKeeper 数据模型和常见命令](docs/系统设计/framework/ZooKeeper数据模型和常见命令.md)
+- [ZooKeeper 相关概念总结](docs/系统设计/ZooKeeper/ZooKeeper.md)
+- [ZooKeeper 数据模型和常见命令](docs/系统设计/ZooKeeper/ZooKeeper数据模型和常见命令.md)
 
 ### 权限认证
 
@@ -111,7 +119,7 @@
 
 ### 设计模式
 
-- [设计模式系列文章](docs/系统设计/设计模式.md)
+- [设计模式系列文章](docs/系统设计)
 
 ### 数据通信
 
@@ -135,18 +143,13 @@
 * **[【备战面试1】程序员的简历就该这样写](docs/简历与面经/PreparingForInterview/程序员的简历之道.md)**
 * **[【备战面试2】初出茅庐的程序员该如何准备面试？](docs/简历与面经/PreparingForInterview/interviewPrepare.md)**
 * **[【备战面试3】7个大部分程序员在面试前很关心的问题](docs/简历与面经/PreparingForInterview/JavaProgrammerNeedKnow.md)**
-* **[【备战面试4】Github上开源的Java面试/学习相关的仓库推荐](docs/简历与面经/PreparingForInterview/JavaInterviewLibrary.md)**
 * **[【备战面试5】如果面试官问你“你有什么问题问我吗？”时，你该如何回答](docs/简历与面经/PreparingForInterview/如果面试官问你"你有什么问题问我吗？"时，你该如何回答.md)**
 * **[【备战面试6】美团面试常见问题总结（附详解答案）](docs/简历与面经/PreparingForInterview/美团面试常见问题总结.md)**
 
-### 常见面试题总结
-
-* [第一周（2018-8-7）](docs/简历与面经/MostCommonJavaInterviewQuestions/第一周（2018-8-7）.md) (为什么 Java 中只有值传递、==与equals、 hashCode与equals)
-* [第二周（2018-8-13）](docs/简历与面经/MostCommonJavaInterviewQuestions/第二周(2018-8-13).md)(String和StringBuffer、StringBuilder的区别是什么？String为什么是不可变的？、什么是反射机制？反射机制的应用场景有哪些？......)
-* [第三周（2018-08-22）](docs/java/collection/Java集合框架常见面试题.md) （Arraylist 与 LinkedList 异同、ArrayList 与 Vector 区别、HashMap的底层实现、HashMap 和 Hashtable 的区别、HashMap 的长度为什么是2的幂次方、HashSet 和 HashMap 区别、ConcurrentHashMap 和 Hashtable 的区别、ConcurrentHashMap线程安全的具体实现方式/底层具体实现、集合框架底层数据结构总结）
-* [第四周(2018-8-30).md](docs/简历与面经/MostCommonJavaInterviewQuestions/第四周(2018-8-30).md) （主要内容是几道面试常问的多线程基础题。）
 
 ### 面经
+
+* [常见面试题总结一](docs/简历与面经)
 
 - [5面阿里,终获offer(2018年秋招)](docs/简历与面经/BATJrealInterviewExperience/5面阿里,终获offer.md)
 - [蚂蚁金服2019实习生面经总结(已拿口头offer)](docs/简历与面经/BATJrealInterviewExperience/蚂蚁金服实习生面经总结(已拿口头offer).md)
