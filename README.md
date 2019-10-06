@@ -37,6 +37,8 @@
 
 ## Python
 
+* [热门Python开源项目排行榜(月榜)](https://github.com/trending/python?since=monthly)
+
 ### 基础
 
 * **[Python 基础知识回顾](docs/Python)**
