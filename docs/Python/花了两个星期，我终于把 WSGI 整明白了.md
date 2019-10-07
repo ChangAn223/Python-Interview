@@ -1,7 +1,5 @@
-> 本文来自：[微信公众号：Python编程时光](https://mp.weixin.qq.com/s/jqEMpQBw4HASyFMO9Zsepw)
+> 本文来自：[微信公众号：Python编程时光]()
 
-
-[toc]
 
 ### 0. 摘要
 
@@ -18,12 +16,19 @@
 今天主要是讲第二阶段，主要内容有以下几点：
 
 1.WSGI 是什么，因何而生？
+
 2.HTTP请求是如何到应用程序的？
+
 3.实现一个简单的 WSGI Server
+
 4.实现“高并发”的WSGI Server
+
 5.第一次路由：PasteDeploy
+
 6.PasteDeploy 使用说明
+
 7.webob.dec.wsgify 装饰器
+
 8.第二次路由：中间件 routes 路由
 
 
@@ -45,9 +50,9 @@ WSGI是 Web Server Gateway Interface 的缩写。
 
 WSGI 对于 application 对象有如下三点要求:
 
-1.必须是一个可调用的对象
-2.接收两个必选参数environ、start_response。
-3.返回值必须是可迭代对象，用来表示http body。
+ - 1.必须是一个可调用的对象
+ - 2.接收两个必选参数environ、start_response。
+ - 3.返回值必须是可迭代对象，用来表示http body。
 
 
 ### 2. HTTP请求是如何到应用程序的？

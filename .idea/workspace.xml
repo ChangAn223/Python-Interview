@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6ee42f9-b727-4469-b81c-58c6d56afa6e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/Python/Flask上下文.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/Python/花了两个星期，我终于把 WSGI 整明白了.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Python/Python的协程真的有那么难吗？收藏！ - 掘金.mhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/书籍推荐/java-recommended-books.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Python/Python面试知识复习.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Python/Python面试基础知识复习.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Python/花了两个星期，我终于把 WSGI 整明白了.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Python/花了两个星期，我终于把 WSGI 整明白了.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,11 +19,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/Python/Python面试知识复习.md">
+        <entry file="file://$PROJECT_DIR$/docs/Python/Python面试基础知识复习.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="172">
-                <caret line="400" lean-forward="true" selection-start-line="400" selection-end-line="400" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="19">
+                <caret line="1" selection-start-line="1" selection-end-line="1" />
                 <folding>
                   <element signature="e#1943#1959#0" />
                   <element signature="e#2341#2356#0" />
@@ -41,33 +38,46 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/Python/花了两个星期，我终于把 WSGI 整明白了.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="753" column="24" selection-start-line="753" selection-start-column="24" selection-end-line="753" selection-end-column="24" />
-              <folding>
-                <element signature="e#78#87#0" />
-                <element signature="e#489#510#0" />
-                <element signature="e#1169#1192#0" />
-                <element signature="e#1845#1871#0" />
-                <element signature="e#2060#2224#0" />
-                <element signature="e#2418#2445#0" />
-                <element signature="e#3446#4100#0" />
-                <element signature="e#4183#4207#0" />
-                <element signature="e#4928#4992#0" />
-                <element signature="e#5266#5554#0" />
-                <element signature="e#5971#5994#0" />
-                <element signature="e#6947#6987#0" />
-                <element signature="e#6962#7539#0" />
-                <element signature="e#7652#7688#0" />
-                <element signature="e#7812#8054#0" />
-                <element signature="e#8136#9537#0" />
-                <element signature="e#9926#9953#0" />
-                <element signature="e#11855#12347#0" />
-                <element signature="e#12835#14581#0" />
-                <element signature="e#14667#14906#0" />
-              </folding>
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="342">
+                <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+                <folding>
+                  <element signature="e#2418#2445#0" />
+                  <element signature="e#3446#4100#0" />
+                  <element signature="e#4183#4207#0" />
+                  <element signature="e#9926#9953#0" />
+                  <element signature="e#11132#11158#0" />
+                  <element signature="e#17659#17670#0" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/Python/Python进程通信.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="114">
+                <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/数据库/MySQL.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor>
+                <caret lean-forward="true" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -75,9 +85,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/Python/Flask请求流程.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="384">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="494">
                 <caret line="73" column="21" lean-forward="true" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
+                <folding>
+                  <element signature="e#73#368#0" />
+                  <element signature="e#386#1034#0" />
+                  <element signature="e#1149#1265#0" />
+                  <element signature="e#1320#1498#0" />
+                  <element signature="e#1730#1778#0" />
+                  <element signature="e#1821#2122#0" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -88,20 +106,26 @@
         <entry file="file://$PROJECT_DIR$/docs/Python/Flask上下文.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="76">
-                <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+              <first_editor relative-caret-position="-54">
+                <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
                 <folding>
+                  <element signature="e#371#393#0" />
+                  <element signature="e#896#907#0" />
                   <element signature="e#1151#1404#0" />
                   <element signature="e#1473#1876#0" />
                   <element signature="e#2150#2398#0" />
                   <element signature="e#2752#3109#0" />
                   <element signature="e#3140#4218#0" />
+                  <element signature="e#4234#4250#0" />
                   <element signature="e#4505#4993#0" />
                   <element signature="e#5052#5201#0" />
                   <element signature="e#5622#6146#0" />
+                  <element signature="e#6147#6163#0" />
                   <element signature="e#6312#6652#0" />
                   <element signature="e#6661#6679#0" />
                   <element signature="e#6695#7050#0" />
+                  <element signature="e#7417#7427#0" />
+                  <element signature="e#7435#7482#0" />
                   <element signature="e#7590#7696#0" />
                   <element signature="e#7712#8416#0" />
                   <element signature="e#8653#8790#0" />
@@ -185,8 +209,8 @@
         <option value="$PROJECT_DIR$/docs/简历与面经/BATJrealInterviewExperience/深信服Python开发2018-8.md" />
         <option value="$PROJECT_DIR$/docs/数据库/MySQL.md" />
         <option value="$PROJECT_DIR$/docs/Python/Python进程通信.md" />
-        <option value="$PROJECT_DIR$/docs/Python/Python面试知识复习.md" />
         <option value="$PROJECT_DIR$/docs/Python/Python的协程真的有那么难吗？收藏！ - 掘金.mhtml" />
+        <option value="$PROJECT_DIR$/docs/Python/Python面试知识复习.md" />
         <option value="$PROJECT_DIR$/docs/Python/Flask上下文.md" />
         <option value="$PROJECT_DIR$/docs/Python/花了两个星期，我终于把 WSGI 整明白了.md" />
       </list>
@@ -222,6 +246,12 @@
               <item name="Python后台" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python后台" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python后台" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="数据库" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -523,7 +553,7 @@
       <workItem from="1569297033549" duration="7123000" />
       <workItem from="1569499351254" duration="7365000" />
       <workItem from="1570157448371" duration="59977000" />
-      <workItem from="1570429207050" duration="12768000" />
+      <workItem from="1570429207050" duration="13551000" />
     </task>
     <task id="LOCAL-00001" summary="index">
       <created>1570434535986</created>
@@ -574,11 +604,18 @@
       <option name="project" value="LOCAL" />
       <updated>1570439338329</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="...">
+      <created>1570443195078</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1570443195078</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="147813000" />
+    <option name="totallyTimeSpent" value="148596000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -598,7 +635,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.502021" side_tool="true" weight="0.31914893" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.1705151" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.1705151" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -639,9 +676,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="index" />
     <MESSAGE value="add imgage" />
-    <MESSAGE value="..." />
     <MESSAGE value="协程" />
-    <option name="LAST_COMMIT_MESSAGE" value="协程" />
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/docs/tools/Docker.md">
@@ -916,52 +953,18 @@
     <entry file="file://$PROJECT_DIR$/docs/数据库/MySQL.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="133">
-            <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
-            <folding>
-              <element signature="e#761#774#0" />
-              <element signature="e#761#774#0" />
-              <element signature="e#972#983#0" />
-              <element signature="e#1482#1502#0" />
-              <element signature="e#2621#2637#0" />
-              <element signature="e#2888#2900#0" />
-              <element signature="e#3201#3207#0" />
-              <element signature="e#3911#3922#0" />
-              <element signature="e#4648#4658#0" />
-            </folding>
+          <first_editor>
+            <caret lean-forward="true" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/Python/Python进程通信.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
-          <folding>
-            <element signature="e#127#143#0" />
-            <element signature="e#1750#1765#0" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/docs/Python/Python面试基础知识复习.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="190">
-            <caret line="126" selection-start-line="126" selection-end-line="126" />
-            <folding>
-              <element signature="e#127#143#0" />
-              <element signature="e#1750#1765#0" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/Python/Python面试知识复习.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="172">
-            <caret line="400" lean-forward="true" selection-start-line="400" selection-end-line="400" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="19">
+            <caret line="1" selection-start-line="1" selection-end-line="1" />
             <folding>
               <element signature="e#1943#1959#0" />
               <element signature="e#2341#2356#0" />
@@ -977,9 +980,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/Python/Flask请求流程.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="384">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="494">
             <caret line="73" column="21" lean-forward="true" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
+            <folding>
+              <element signature="e#73#368#0" />
+              <element signature="e#386#1034#0" />
+              <element signature="e#1149#1265#0" />
+              <element signature="e#1320#1498#0" />
+              <element signature="e#1730#1778#0" />
+              <element signature="e#1821#2122#0" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -988,20 +999,26 @@
     <entry file="file://$PROJECT_DIR$/docs/Python/Flask上下文.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="76">
-            <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <first_editor relative-caret-position="-54">
+            <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
             <folding>
+              <element signature="e#371#393#0" />
+              <element signature="e#896#907#0" />
               <element signature="e#1151#1404#0" />
               <element signature="e#1473#1876#0" />
               <element signature="e#2150#2398#0" />
               <element signature="e#2752#3109#0" />
               <element signature="e#3140#4218#0" />
+              <element signature="e#4234#4250#0" />
               <element signature="e#4505#4993#0" />
               <element signature="e#5052#5201#0" />
               <element signature="e#5622#6146#0" />
+              <element signature="e#6147#6163#0" />
               <element signature="e#6312#6652#0" />
               <element signature="e#6661#6679#0" />
               <element signature="e#6695#7050#0" />
+              <element signature="e#7417#7427#0" />
+              <element signature="e#7435#7482#0" />
               <element signature="e#7590#7696#0" />
               <element signature="e#7712#8416#0" />
               <element signature="e#8653#8790#0" />
@@ -1015,31 +1032,48 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/Python/花了两个星期，我终于把 WSGI 整明白了.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="753" column="24" selection-start-line="753" selection-start-column="24" selection-end-line="753" selection-end-column="24" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
           <folding>
-            <element signature="e#78#87#0" />
-            <element signature="e#489#510#0" />
-            <element signature="e#1169#1192#0" />
-            <element signature="e#1845#1871#0" />
-            <element signature="e#2060#2224#0" />
             <element signature="e#2418#2445#0" />
             <element signature="e#3446#4100#0" />
             <element signature="e#4183#4207#0" />
-            <element signature="e#4928#4992#0" />
-            <element signature="e#5266#5554#0" />
-            <element signature="e#5971#5994#0" />
-            <element signature="e#6947#6987#0" />
-            <element signature="e#6962#7539#0" />
-            <element signature="e#7652#7688#0" />
-            <element signature="e#7812#8054#0" />
-            <element signature="e#8136#9537#0" />
             <element signature="e#9926#9953#0" />
-            <element signature="e#11855#12347#0" />
-            <element signature="e#12835#14581#0" />
-            <element signature="e#14667#14906#0" />
+            <element signature="e#11132#11158#0" />
+            <element signature="e#17659#17670#0" />
           </folding>
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="342">
+            <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <folding>
+              <element signature="e#2418#2445#0" />
+              <element signature="e#3446#4100#0" />
+              <element signature="e#4183#4207#0" />
+              <element signature="e#9926#9953#0" />
+              <element signature="e#11132#11158#0" />
+              <element signature="e#17659#17670#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/Python/Python进程通信.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="114">
+            <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
