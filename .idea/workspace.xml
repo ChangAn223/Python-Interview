@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6ee42f9-b727-4469-b81c-58c6d56afa6e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e6ee42f9-b727-4469-b81c-58c6d56afa6e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +15,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/数据库/MySQL索引.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
@@ -79,8 +77,20 @@
         <entry file="file://$PROJECT_DIR$/docs/数据结构与算法/面试官问你什么B树和B+树，把这篇文章丢给他.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="158">
-                <caret line="149" selection-start-line="149" selection-end-line="149" />
+              <first_editor relative-caret-position="152">
+                <caret line="8" selection-start-line="8" selection-end-line="8" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/数据结构与算法/Backtracking-NQueens.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="38">
+                <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
               </first_editor>
               <second_editor />
             </state>
@@ -185,11 +195,11 @@
         <option value="$PROJECT_DIR$/docs/Python/Python面试知识复习.md" />
         <option value="$PROJECT_DIR$/docs/数据结构与算法/数据结构.md" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/docs/数据结构与算法/面试官问你什么B树和B+树，把这篇文章丢给他.md" />
         <option value="$PROJECT_DIR$/docs/数据库/MySQL高性能优化规范建议.md" />
         <option value="$PROJECT_DIR$/docs/数据库/MySQL事务及其ACID特性.md" />
         <option value="$PROJECT_DIR$/docs/数据库/一条sql语句在mysql中如何执行的.md" />
         <option value="$PROJECT_DIR$/docs/数据库/MySQL索引.md" />
+        <option value="$PROJECT_DIR$/docs/数据结构与算法/面试官问你什么B树和B+树，把这篇文章丢给他.md" />
       </list>
     </option>
   </component>
@@ -223,6 +233,12 @@
               <item name="Python后台" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
               <item name="数据库" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python后台" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python后台" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="数据结构与算法" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -524,7 +540,7 @@
       <workItem from="1569297033549" duration="7123000" />
       <workItem from="1569499351254" duration="7365000" />
       <workItem from="1570157448371" duration="59977000" />
-      <workItem from="1570429207050" duration="5565000" />
+      <workItem from="1570429207050" duration="6164000" />
     </task>
     <task id="LOCAL-00001" summary="index">
       <created>1570434535986</created>
@@ -540,16 +556,31 @@
       <option name="project" value="LOCAL" />
       <updated>1570435109381</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="...">
+      <created>1570435327700</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1570435327700</updated>
+    </task>
+    <task id="LOCAL-00004" summary="...">
+      <created>1570435433289</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1570435433289</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140610000" />
+    <option name="totallyTimeSpent" value="141209000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4921875" visible="true" weight="0.2271625" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4921875" visible="true" weight="0.2271625" />
       <window_info id="Structure" order="1" sideWeight="0.5078125" side_tool="true" weight="0.22392885" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -563,7 +594,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.502021" side_tool="true" weight="0.31914893" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.1705151" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.1705151" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -604,7 +635,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="index" />
     <MESSAGE value="add imgage" />
-    <option name="LAST_COMMIT_MESSAGE" value="add imgage" />
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/docs/数据结构与算法/LeetCode高频率题目.md">
@@ -834,16 +866,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/数据结构与算法/Backtracking-NQueens.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-817">
-            <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/数据结构与算法/公司真题.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -883,16 +905,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="606">
             <caret line="127" selection-start-line="127" selection-end-line="127" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/数据结构与算法/面试官问你什么B树和B+树，把这篇文章丢给他.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="158">
-            <caret line="149" selection-start-line="149" selection-end-line="149" />
           </first_editor>
           <second_editor />
         </state>
@@ -968,6 +980,26 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="193">
             <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/数据结构与算法/面试官问你什么B树和B+树，把这篇文章丢给他.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="152">
+            <caret line="8" selection-start-line="8" selection-end-line="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/数据结构与算法/Backtracking-NQueens.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="38">
+            <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
           </first_editor>
           <second_editor />
         </state>
