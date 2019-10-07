@@ -10,6 +10,8 @@
 
 一个较好的做法是，将这些项目全局中需要频繁用到的变量值整合在一起，而这些值的集合就是上下文。只要在需要的时候，从这个上下文中取就好了。
 
+------
+
 ### 0.在 Flask 中，有两种上下文
 
  - application context（应用上下文）
@@ -30,6 +32,8 @@ application context 会存储一个 app 里可以全局共享里的变量。而 
  - LocalProxy
 
 这三个对象都是 werkzeug 里提供的，定义在 local.py 里，所以它们并不是Flask 中特有的， 这就意味着我们可以直接在自己的项目中使用它们，而不用依托于 Flask 的环境。
+
+------
 
 ### 1.Local
 首先是 Local ，记得在以前的「并发编程系列」的第五篇线程的  信息隔离 的时候，提过了 threading.local ，它是专门用来存储当前线程的变量，从而实现对象的线程隔离。
@@ -190,6 +194,8 @@ class Local(object):
 
 ```
 
+-----
+
 ### 2.LocalStack
 
 通过对 Local 的介绍，可以知道 Local 其实是通过封装了字典的，以此实现了线程隔离。
@@ -267,6 +273,8 @@ session = LocalProxy(partial(_lookup_req_object, 'session'))
 
 ```
 
+-----
+
 ### 3.LocalProxy
 
 通过上面的代码，你可以发现，我们访问LocalStack里的元素的时候，都是通过LocalProxy 来进行的有没有？
@@ -338,6 +346,8 @@ Bob
 ![](../img/705.jpg)
 
 这样就能实现每次对栈顶元素的操作，都是面对最新元素执行的。
+
+-----
 
 ### 4.经典错误
 

@@ -31,6 +31,7 @@
 
 8.第二次路由：中间件 routes 路由
 
+------
 
 ### 1. WSGI 是什么，因何而生？
 
@@ -54,6 +55,7 @@ WSGI 对于 application 对象有如下三点要求:
  - 2.接收两个必选参数environ、start_response。
  - 3.返回值必须是可迭代对象，用来表示http body。
 
+-------
 
 ### 2. HTTP请求是如何到应用程序的？
 
@@ -77,6 +79,7 @@ WSGI 对于 application 对象有如下三点要求:
 
 nginx可以做负载均衡(前提是有多个服务器)，保护了实际的web服务器(客户端是和nginx交互而不是uWSGI)
 
+------
 
 ### 3. 实现一个简单的 WSGI Server
 
@@ -103,6 +106,7 @@ server.serve_forever()
 
 以上使用 wsgiref 写了一个demo，让你对wsgi有个初步的了解。其由于只适合在学习测试使用，在生产环境中应该另寻他道。
 
+------
 
 ### 4. 实现“高并发”的 WSGI Server
 
@@ -176,6 +180,7 @@ self._server = utils.spawn(**wsgi_kwargs)
 
 就这样，nova 开启了一个可以接受1000个绿色协程并发的 WSGI Server。
 
+-----
 
 ### 5. 第一次路由：PasteDeploy
 
@@ -234,6 +239,7 @@ paste.app_factory = nova.api.openstack.compute:APIRouterV21.factory
 
 这是 OpenStack 使用 PasteDeploy 实现的第一层的路由，如果你不感兴趣，可以直接略过本节，进入下一节，下一节是 介绍 PasteDeploy 的使用，教你实现一个简易的web server demo。推荐一定要看。
 
+-------
 
 ### 6. PasteDeploy 使用说明
 
@@ -445,6 +451,7 @@ if __name__ == "__main__":
 
 到此，你学会了使用 PasteDeploy 的简单使用。
 
+-----
 
 ### 7. webob.dec.wsgify 装饰器
 经过了 PasteDeploy 的路由调度，我们找到了 nova.api.openstack.compute:APIRouterV21.factory 这个 application 的入口，看代码知道它其实返回了 APIRouterV21 类的一个实例。
@@ -480,6 +487,7 @@ APIRouterV21 本身没有实现 __call__ ，但它的父类 Router实现了 __ca
 
 带着这个问题，我们了解下 routes 是如何为我们实现第二次路由。
 
+------
 
 ### 8. 第二次路由：中间件 routes 路由
 
@@ -752,6 +760,8 @@ meth :<bound method ServersController.show of <nova.api.openstack.compute.server
 在这个过程中，确实也学到了不少东西。很多内容都是站在巨人的肩膀上，感谢如此多优秀的网络博客。同时这期间自行阅读了大量的OpenStack 源码，验证了不少自己疑惑已久的知识点，对自己的提升也很有帮助。
 
 若文章有写得不对的地方，还请你帮忙指出，最后感谢你的阅读，如果文章对于有帮助，不防点个赞收藏一下。
+
+-----
 
 ### 附录：参考文章
 
