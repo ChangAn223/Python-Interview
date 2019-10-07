@@ -1,7 +1,7 @@
 ## Python进程通信
 
-https://blog.csdn.net/weixin_43790276/article/details/90906683
-https://www.cnblogs.com/guguobao/p/9398653.html
+文章整理来源：https://blog.csdn.net/weixin_43790276/article/details/90906683
+文章整理来源：https://www.cnblogs.com/guguobao/p/9398653.html
 
 ### 1. 第一种：Queue
 ```

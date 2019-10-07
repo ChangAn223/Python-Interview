@@ -1,3 +1,6 @@
+
+[toc]
+
 ## 1、行为面试
 
 ### 0.自我介绍！
@@ -378,33 +381,16 @@ class TransitionError(Error):
  - 同一线程下的多个协程没有进程线程切换的开销，不存在线程安全故不需要锁机制，所以效率更高。
  - 线程进程都是同步机制，协程是异步机制。
 
-### Python进程：multiprocessing.Process
+### Python进程
 
-#### 创建进程
+我学习线程时的笔记：[https://blog.51cto.com/13885935/2178891](https://blog.51cto.com/13885935/2178891)
 
+进程间通信：[python进程见通信三种实现方式](Python进程通信.md)
 
-#### 多进程、进程池
+### Python线程
 
+我学习线程时的笔记：[https://blog.51cto.com/13885935/2178888](https://blog.51cto.com/13885935/2178888)
 
-#### 进程实现生产者消费者模型
-
-
-#### 守护进程？ deamon
-
-
-
-### Python线程：threading.Thread
-
-
-#### 创建线程
-
-
-
-#### 多线程、线程池
-
-
-
-#### 线程安全
 
 
 

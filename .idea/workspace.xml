@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6ee42f9-b727-4469-b81c-58c6d56afa6e" name="Default Changelist" comment="" />
+    <list default="true" id="e6ee42f9-b727-4469-b81c-58c6d56afa6e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/Python/Python的协程真的有那么难吗？收藏！ - 掘金.mhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Python/Python进程通信.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Python/Python进程通信.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Python/Python面试知识复习.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Python/Python面试知识复习.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,100 +20,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/数据库/MySQL索引.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="193">
-                <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/数据库/一条sql语句在mysql中如何执行的.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="-928">
-                <caret line="122" column="10" selection-start-line="122" selection-start-column="10" selection-end-line="122" selection-end-column="10" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/计算机网络/计算机网络知识点.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="360">
-                <caret line="364" lean-forward="true" selection-start-line="364" selection-end-line="364" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/数据库/MySQL高性能优化规范建议.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="19">
-                <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/数据库/一千行MySQL命令.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-399" />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/数据结构与算法/面试官问你什么B树和B+树，把这篇文章丢给他.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="152">
-                <caret line="8" selection-start-line="8" selection-end-line="8" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/docs/数据结构与算法/Backtracking-NQueens.md">
+        <entry file="file://$PROJECT_DIR$/docs/Python/Python面试知识复习.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="38">
-                <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/数据库/MySQL事务及其ACID特性.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-1194">
-                <caret line="140" column="10" selection-start-line="140" selection-start-column="10" selection-end-line="140" selection-end-column="10" />
+              <first_editor relative-caret-position="96">
+                <caret line="396" column="12" lean-forward="true" selection-start-line="396" selection-start-column="12" selection-end-line="396" selection-end-column="12" />
                 <folding>
-                  <element signature="e#350#360#0" />
-                  <element signature="e#320#332#0" />
-                  <element signature="e#896#905#0" />
-                  <element signature="e#1526#1535#0" />
-                  <element signature="e#2051#2060#0" />
+                  <element signature="e#1943#1959#0" />
+                  <element signature="e#2341#2356#0" />
+                  <element signature="e#2358#2370#0" />
+                  <element signature="e#3069#3077#0" />
+                  <element signature="e#3673#3683#0" />
+                  <element signature="e#5400#5415#0" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -117,11 +41,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/数据库/事务隔离级别(图文详解).md">
+        <entry file="file://$PROJECT_DIR$/docs/Python/Python进程通信.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="-2428">
-                <caret column="97" lean-forward="true" selection-end-column="97" />
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="190">
+                <caret line="126" selection-start-line="126" selection-end-line="126" />
+                <folding>
+                  <element signature="e#127#143#0" />
+                  <element signature="e#1750#1765#0" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -151,8 +79,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1.md" />
-        <option value="$PROJECT_DIR$/2Python函数常考点.md" />
         <option value="$PROJECT_DIR$/2.md" />
         <option value="$PROJECT_DIR$/3.md" />
         <option value="$PROJECT_DIR$/4.md" />
@@ -177,7 +103,6 @@
         <option value="$PROJECT_DIR$/docs/Python/test.py" />
         <option value="$PROJECT_DIR$/docs/数据结构与算法/动态规划.md" />
         <option value="$PROJECT_DIR$/docs/Python/09.md" />
-        <option value="$PROJECT_DIR$/docs/数据库/MySQL.md" />
         <option value="$PROJECT_DIR$/docs/Python/01.md" />
         <option value="$PROJECT_DIR$/docs/Python/02.md" />
         <option value="$PROJECT_DIR$/docs/Python/03.md" />
@@ -192,7 +117,6 @@
         <option value="$PROJECT_DIR$/docs/Python/进程通信.md" />
         <option value="$PROJECT_DIR$/docs/Python/简历面试/0.md" />
         <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/docs/Python/Python面试知识复习.md" />
         <option value="$PROJECT_DIR$/docs/数据结构与算法/数据结构.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/docs/数据库/MySQL高性能优化规范建议.md" />
@@ -200,6 +124,12 @@
         <option value="$PROJECT_DIR$/docs/数据库/一条sql语句在mysql中如何执行的.md" />
         <option value="$PROJECT_DIR$/docs/数据库/MySQL索引.md" />
         <option value="$PROJECT_DIR$/docs/数据结构与算法/面试官问你什么B树和B+树，把这篇文章丢给他.md" />
+        <option value="$PROJECT_DIR$/docs/数据结构与算法/Backtracking-NQueens.md" />
+        <option value="$PROJECT_DIR$/docs/简历与面经/BATJrealInterviewExperience/字节跳动python后台开发面经2018-12.md" />
+        <option value="$PROJECT_DIR$/docs/简历与面经/BATJrealInterviewExperience/深信服Python开发2018-8.md" />
+        <option value="$PROJECT_DIR$/docs/数据库/MySQL.md" />
+        <option value="$PROJECT_DIR$/docs/Python/Python进程通信.md" />
+        <option value="$PROJECT_DIR$/docs/Python/Python面试知识复习.md" />
       </list>
     </option>
   </component>
@@ -232,13 +162,7 @@
               <item name="Python后台" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python后台" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="数据库" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python后台" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python后台" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="数据结构与算法" type="462c0819:PsiDirectoryNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -540,7 +464,7 @@
       <workItem from="1569297033549" duration="7123000" />
       <workItem from="1569499351254" duration="7365000" />
       <workItem from="1570157448371" duration="59977000" />
-      <workItem from="1570429207050" duration="6164000" />
+      <workItem from="1570429207050" duration="9021000" />
     </task>
     <task id="LOCAL-00001" summary="index">
       <created>1570434535986</created>
@@ -570,15 +494,28 @@
       <option name="project" value="LOCAL" />
       <updated>1570435433289</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="...">
+      <created>1570435972337</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1570435972337</updated>
+    </task>
+    <task id="LOCAL-00006" summary="...">
+      <created>1570437189882</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1570437189882</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="141209000" />
+    <option name="totallyTimeSpent" value="144066000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4921875" visible="true" weight="0.2271625" />
       <window_info id="Structure" order="1" sideWeight="0.5078125" side_tool="true" weight="0.22392885" />
@@ -639,40 +576,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="..." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/docs/数据结构与算法/LeetCode高频率题目.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="456">
-            <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/系统设计/设计模式简述.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-14" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/系统设计/设计模式.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="4" column="67" selection-start-line="4" selection-start-column="67" selection-end-line="4" selection-end-column="67" />
-            <folding>
-              <element signature="e#156#167#0" />
-              <element signature="e#505#518#0" />
-              <element signature="e#904#915#0" />
-              <element signature="e#2406#2417#0" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/系统设计/authority-certification/basis-of-authority-certification.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -723,35 +626,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/数据库/MySQL.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-415">
-            <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-            <folding>
-              <element signature="e#725#738#0" />
-              <element signature="e#926#934#0" />
-              <element signature="e#1446#1466#0" />
-              <element signature="e#2586#2602#0" />
-              <element signature="e#2585#2597#0" />
-              <element signature="e#2898#2904#0" />
-              <element signature="e#3608#3619#0" />
-              <element signature="e#4345#4355#0" />
-              <element signature="e#4549#4566#0" />
-              <element signature="e#4911#4926#0" />
-              <element signature="e#5714#5742#0" />
-              <element signature="e#7076#7093#0" />
-              <element signature="e#7999#8007#0" />
-              <element signature="e#9475#9498#0" />
-              <element signature="e#9745#9763#0" />
-              <element signature="e#10005#10028#0" />
-              <element signature="e#10287#10293#0" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/Python/01.md" />
     <entry file="file://$PROJECT_DIR$/docs/Python/02.md" />
     <entry file="file://$PROJECT_DIR$/docs/Python/03.md" />
@@ -763,19 +637,6 @@
     <entry file="file://$PROJECT_DIR$/docs/Python/09.md" />
     <entry file="file://$PROJECT_DIR$/docs/Python/10.md" />
     <entry file="file://$PROJECT_DIR$/docs/Python/11.md" />
-    <entry file="file://$PROJECT_DIR$/docs/Python/Python进程通信.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
-          <folding>
-            <element signature="e#127#968#0" />
-            <element signature="e#975#1655#0" />
-            <element signature="e#1743#1943#0" />
-            <element signature="e#1950#2669#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/Python/简历面试/0.md" />
     <entry file="file://$PROJECT_DIR$/docs/Python/Flask请求流程.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -825,31 +686,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="285" lean-forward="true" selection-start-line="285" selection-end-line="285" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/Python/Python面试知识复习.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="289">
-            <caret line="558" lean-forward="true" selection-start-line="558" selection-end-line="558" />
-            <folding>
-              <element signature="e#0#9#0" />
-              <element signature="e#89#102#0" />
-              <element signature="e#1943#1959#0" />
-              <element signature="e#2341#2356#0" />
-              <element signature="e#2358#2370#0" />
-              <element signature="e#3069#3077#0" />
-              <element signature="e#3673#3683#0" />
-              <element signature="e#4603#4615#0" />
-              <element signature="e#4678#4686#0" />
-              <element signature="e#4759#4769#0" />
-              <element signature="e#5400#5415#0" />
-              <element signature="e#7760#7773#0" />
-              <element signature="e#8567#8583#0" />
-            </folding>
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -920,24 +756,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/数据库/MySQL高性能优化规范建议.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/数据库/一千行MySQL命令.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-399" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/数据库/事务隔离级别(图文详解).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -965,21 +783,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/数据库/一条sql语句在mysql中如何执行的.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-928">
-            <caret line="122" column="10" selection-start-line="122" selection-start-column="10" selection-end-line="122" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/数据库/MySQL索引.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="193">
             <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/简历与面经/面试必备之乐观锁与悲观锁.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1596" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/简历与面经/BATJrealInterviewExperience/深信服Python开发2018-8.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="133">
+            <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/简历与面经/BATJrealInterviewExperience/字节跳动python后台开发面经2018-12.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="646">
+            <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/数据结构与算法/Backtracking-NQueens.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="57">
+            <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
           </first_editor>
           <second_editor />
         </state>
@@ -995,11 +841,91 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/数据结构与算法/Backtracking-NQueens.md">
+    <entry file="file://$PROJECT_DIR$/docs/数据库/一千行MySQL命令.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="38">
-            <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+          <first_editor relative-caret-position="-399" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/数据库/MySQL高性能优化规范建议.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="19">
+            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/数据库/一条sql语句在mysql中如何执行的.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-928">
+            <caret line="122" column="10" selection-start-line="122" selection-start-column="10" selection-end-line="122" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/数据库/MySQL.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="133">
+            <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+            <folding>
+              <element signature="e#761#774#0" />
+              <element signature="e#761#774#0" />
+              <element signature="e#972#983#0" />
+              <element signature="e#1482#1502#0" />
+              <element signature="e#2621#2637#0" />
+              <element signature="e#2888#2900#0" />
+              <element signature="e#3201#3207#0" />
+              <element signature="e#3911#3922#0" />
+              <element signature="e#4648#4658#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/Python/Python进程通信.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+          <folding>
+            <element signature="e#127#143#0" />
+            <element signature="e#1750#1765#0" />
+          </folding>
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="190">
+            <caret line="126" selection-start-line="126" selection-end-line="126" />
+            <folding>
+              <element signature="e#127#143#0" />
+              <element signature="e#1750#1765#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/Python/Python面试知识复习.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="96">
+            <caret line="396" column="12" lean-forward="true" selection-start-line="396" selection-start-column="12" selection-end-line="396" selection-end-column="12" />
+            <folding>
+              <element signature="e#1943#1959#0" />
+              <element signature="e#2341#2356#0" />
+              <element signature="e#2358#2370#0" />
+              <element signature="e#3069#3077#0" />
+              <element signature="e#3673#3683#0" />
+              <element signature="e#5400#5415#0" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
