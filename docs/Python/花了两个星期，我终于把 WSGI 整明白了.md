@@ -3,6 +3,8 @@
 
 ### 0. 摘要
 
+[python pep-3333：Python Web Server Gateway Interface](https://www.python.org/dev/peps/pep-3333/)
+
 带着这些问题往下看，可能更有目的性，学习可能更有效果。
 
 问1：一个 HTTP 请求到达对应的 application处理函数要经过怎样的过程？
